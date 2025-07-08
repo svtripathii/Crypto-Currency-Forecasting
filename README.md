@@ -1,4 +1,5 @@
 🪙 Crypto Price Forecasting using Time Series Models and Sentiment Analysis
+
 This project presents a comprehensive web application for cryptocurrency price forecasting, integrating time series analysis and sentiment analysis to deliver more accurate and insightful predictions.
 
 🔍 Overview
